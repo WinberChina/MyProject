@@ -1,0 +1,6 @@
+com\mx\winber\service\impl\CourseServiceImpl.class
+com\mx\winber\model\Chapter.class
+com\mx\winber\model\Section.class
+com\mx\winber\controller\CourseController.class
+com\mx\winber\model\Course.class
+com\mx\winber\service\CourseService.class
